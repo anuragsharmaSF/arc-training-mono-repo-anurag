@@ -13,5 +13,3 @@ module "vpc_network" {
   private_rt_name      = "my-private-rt"
   nat_gateway_name     = "my-nat-gateway"
 }
-
-
