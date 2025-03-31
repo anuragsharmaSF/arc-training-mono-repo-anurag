@@ -1,0 +1,5 @@
+bucket_name              = "bootstrap-arc-iac-bucket"
+dynamodb_name            = "bootstrap-arc-iac-db-table"
+dynamo_kms_master_key_id = ""
+region                   = "ap-south-1"
+environment              = "dev"
